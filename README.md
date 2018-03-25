@@ -6,6 +6,7 @@ plt.plot(range(100), [x ** 2 for x in range(100)])
 plt.show()
 ```
 
+![alt](./img.png)
 <!-- base64:img.png
 iVBORw0KGgoAAAANSUhEUgAAAYEAAAD/CAYAAAAXBmohAAAABHNCSVQICAgI
 fAhkiAAAAAlwSFlz%0AAAALEgAACxIB0t1+/AAAGsRJREFUeJzt3XmUVOWdx
